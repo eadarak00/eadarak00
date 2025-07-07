@@ -2,7 +2,7 @@
 <h3 align="center">Junior FullStack Developer | Tech Enthusiast</h3>
 
 # 💫 About Me:
-I’m El Hadji Abdou DRAME — a passionate Junior FullStack Developer with a solid background in software engineering and modern web technologies.<br>Currently pursuing a Master’s degree in Computer Science specializing Software Engineering at Assane Seck University of Ziguinchor.<br><br>👨‍💻 I love building efficient, scalable, and user-friendly applications.<br>🌱 I’m constantly learning and improving my skills in DevOps, and modern development practices.<br>🛠️ My main tools: Java, Spring Boot, React, Angular, JavaScript, MariaDB.<br>🎯 My goal: to become a high-level FullStack & DevOps Engineer and work on projects that make a real impact.
+I’m El Hadji Abdou DRAME — a passionate Junior FullStack Developer with a solid background in software engineering and modern web technologies.<br>Currently pursuing a Master’s degree in Computer Science specializing Software Engineering at Assane Seck University of Ziguinchor.<br><br>👨‍💻 I love building efficient, scalable, and user-friendly applications.<br>🌱 I’m constantly learning and improving my skills in software development, and modern development practices.<br>🛠️ My main tools: Java, Spring Boot, React, Angular, JavaScript, MariaDB.<br>🎯 My goal: to become a high-level FullStack & DevOps Engineer and work on projects that make a real impact.
 
 
 ## 🌐 Socials:
